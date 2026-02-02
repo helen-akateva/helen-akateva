@@ -68,10 +68,10 @@ A personal finance tracker application for managing income and expenses. Feature
 
 <div align="center">
   
-![Olena's GitHub stats](https://github-readme-stats.vercel.app/api?username=helen-akateva&show_icons=true&theme=merko&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=helen-akateva&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Olena's GitHub stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helen-akateva&layout=compact&theme=merko&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helen-akateva&layout=compact&theme=merko&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=helen-akateva&theme=merko&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=helen-akateva&theme=merko&hide_border=true" alt="GitHub Streak" />
 
 </div>
