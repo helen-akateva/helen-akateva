@@ -21,6 +21,7 @@ Junior Fullstack developer with experience in HTML5, CSS3, React.js, Next.js, Ja
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </div>
 
+
 ---
 
 ### 💻 Featured Projects
@@ -64,14 +65,7 @@ A personal finance tracker application for managing income and expenses. Feature
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity Graph
 
-<div align="center">
-  
-![Olena's GitHub stats](https://github-readme-stats.vercel.app/api?username=helen-akateva&show_icons=true&theme=merko&hide_border=true&count_private=true&cache_seconds=1800)
+[![Olena's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=helen-akateva&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helen-akateva&layout=compact&theme=merko&hide_border=true&langs_count=8&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=helen-akateva&theme=merko&hide_border=true)
-
-</div>
