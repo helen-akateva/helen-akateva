@@ -26,7 +26,7 @@ Junior Fullstack developer with experience in HTML5, CSS3, React.js, Next.js, Ja
 
 ### 💻 Featured Projects
 
-#### 🚐 [TravelTrucks](https://github.com/helen-akateva/web-application-travel-trucks) | [Live Demo](https://web-application-travel-trucks.vercel.app/)
+#### 🚐 [TravelTrucks](https://github.com/helen-akateva/traveltruck-hub) | [Live Demo](https://traveltruck-hub.vercel.app/)
 
 A camper rental application built with **Next.js**, **TypeScript**, and **React**. Features include:
 - Advanced filtering by location, body type, and equipment
