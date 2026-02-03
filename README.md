@@ -38,7 +38,7 @@ A camper rental application built with **Next.js**, **TypeScript**, and **React*
 
 ---
 
-#### 💰 [Spendy - Personal Finance Tracker](https://github.com/helen-akateva/web-spendy-expence-tracker) | [Live Demo](https://web-spendy-expence-tracker.vercel.app/login)
+#### 💰 [Spendy - Personal Finance Tracker](https://github.com/helen-akateva/spendy-expense-tracker-web) | [Live Demo](https://spendy-expense-tracker-web.vercel.app)
 
 A personal finance tracker application for managing income and expenses. Features include:
 - Transaction management with categories
