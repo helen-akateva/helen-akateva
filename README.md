@@ -65,7 +65,3 @@ A personal finance tracker application for managing income and expenses. Feature
 
 ---
 
-### 📊 GitHub Activity Graph
-
-[![Olena's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=helen-akateva&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
